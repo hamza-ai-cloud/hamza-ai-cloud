@@ -7,7 +7,7 @@
 ---
 
 ### 🌱 Currently Learning
-- JavaScript fundamentals
+- Python fundamentals
 - Git & GitHub workflow
 - AI automation with n8n
 - Cloud platforms (Azure / DigitalOcean)

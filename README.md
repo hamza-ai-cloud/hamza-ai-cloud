@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Hamza 👋
 
-<!--
-**hamza-ai-cloud/hamza-ai-cloud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 AI & Cloud Automation Learner  
+🤖 Building smart agents & automation workflows  
+🛠 Tools: GitHub • JavaScript • n8n • Cloud Basics  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 Currently Learning
+- JavaScript fundamentals
+- Git & GitHub workflow
+- AI automation with n8n
+- Cloud platforms (Azure / DigitalOcean)
+
+---
+
+### 🎯 Goals
+- Build real-world AI automation projects
+- Create a strong open-source portfolio
+- Start freelancing in AI & automation
+
+---
+
+### 📫 Connect with me
+- GitHub: https://github.com/hamza-ai-cloud
